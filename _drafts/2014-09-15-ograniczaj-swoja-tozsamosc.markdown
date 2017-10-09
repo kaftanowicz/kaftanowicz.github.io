@@ -1,0 +1,57 @@
+---  
+author: admin  
+comments: true  
+date: 2014-09-15 18:32:57+00:00  
+excerpt: '[:pl]Dlaczego przekonania lepiej traktować jak modele i narzędzia, niż jak  
+  barwy klubowe lub godła partyjne.[:]'  
+layout: single  
+
+slug: ograniczaj-swoja-tozsamosc  
+title: Ograniczaj swoją tożsamość  
+
+categories:  
+- Translations  
+---  
+
+[:en]<!-- more -->[:pl]Oryginał: Paul Grahm, [Keep Your Identity Small](http://www.paulgraham.com/identity.html), luty 2009  
+Przekład: Michał Kaftanowicz, wrzesień 2014  
+
+Dzisiaj nareszcie zrozumiałem, dlaczego rozmowy o polityce i religii są tak bezcelowe.  
+
+Jakakolwiek wzmianka o religii na forum internetowym z reguły prowadzi do kłótni religijnej. Dlaczego tak jest? Dlaczego jest tak z religią, a nie z JavaScriptem, pieczeniem ciast lub innymi tematami, o których rozmawia się na forach?  
+
+<!-- more -->Różnica polega na tym, że w przypadku religii brak jakiejkolwiek wiedzy nie powstrzymuje nikogo od posiadania na ten temat opinii. Wystarczy silne przeświadczenie, a to może mieć każdy. Żaden wątek na temat Javascriptu nie rozrośnie się tak szybko jak wątek o religii, bo ludzie czują, że powinni odpowiednio znać się na tym, zanim zaczną komentować. Ale w temacie religii każdy jest znawcą.  
+
+W tym momencie do mnie dotarło - taki sam problem jest z polityką. Polityka, podobnie jak religia, to kwestia, na temat której nie trzeba mieć odpowiedniej wiedzy, żeby wyrazić opinię. Wystarczą silne przekonania.  
+
+Czy religia i polityka mają coś wspólnego, co tłumaczyłoby to podobieństwo? Jedno z możliwych wyjaśnień mówi, że obie dotyczą pytań bez sprecyzowanych odpowiedzi, więc ludzie nie czują oporu przed wyrażaniem opinii. Skoro nikomu nie można udowodnić, że się myli, to każda opinia jest jednakowo ważna - myślą ludzie i każdy obstaje przy swoim.  
+
+Ale to nieprawda. To oczywiste, że na niektóre zagadnienia polityczne istnieją sprecyzowane odpowiedzi, na przykład ile będzie kosztować nowa ustawa. Ale nawet precyzyjnie ujęte kwestie polityczne są traktowane tak samo jak te niejednoznaczne.  
+
+Myślę, że zarówno religia, jak i polityka stają się częścią osobistej tożsamości, a owocna rozmowa na temat części własnej tożsamości jest niemożliwa. Taka dyskusja z definicji będzie stronnicza.  
+
+To, jaki temat zostanie połączony z osobistą tożsamością, zależy od ludzi, nie od tematu. Na przykład, dyskusja o bitwie, w której biorą udział obywatele jednego lub większej liczby walczących krajów, prawdopodobnie przerodzi się w kłótnię polityczną. Ale współczesna dyskusja o bitwie z epoki brązu już raczej nie. Nikt nie wiedziałby, po której ma być stronie. Zatem to nie polityka jest źródłem problemu, lecz tożsamość. Kiedy ludzie mówią, że dyskusja przekształciła się w wojnę religijną, tak naprawdę chodzi im o to, że zaczęło napędzać ją głównie poczucie tożsamości uczestników. [1]  
+
+Jako że moment, w którym to następuje, zależy bardziej od ludzi, niż od tematu, błędem byłoby wnosić, że ponieważ zagadnienie wywołuje wojny religijne, to musi nie mieć odpowiedzi. Na przykład, porównywanie języków programowania zwykle przeradza się w wojnę religijną, ponieważ bardzo wielu programistów określa się jako "programista X" lub "programista Y". Czasami ludzie wnioskują z tego, że jest to problem bez odpowiedzi - że wszystkie języki są równie dobre. To oczywiście nieprawda; każdy inny ludzki wytwór może być dobrze lub źle zaprojektowany; czemu miałoby to być niemożliwe akurat w przypadku języków programowania? I rzeczywiście, da się prowadzić owocną dyskusję porównującą języki programowania, pod warunkiem, że wykluczy się z niej ludzi, którzy odpowiadając, kierują się tożsamością.  
+
+Ogólnie rzecz biorąc, da się prowadzić owocną dyskusję na jakiś temat tylko wtedy, gdy nie łączy się on z tożsamościami uczestników. Religia i polityka działają tu jak pola minowe, bo łączą się z tożsamościami bardzo wielu ludzi. W zasadzie dałoby się rozmawiać o nich z niektórymi w wartościowy sposób. Ale są też inne, pozornie niegroźne tematy, jak porównanie pick-upów Forda i Chevroleta, o których nie da się bezpiecznie rozmawiać z [pewnymi ludźmi](http://www.theledger.com/apps/pbcs.dll/article?AID=/20060418/NEWS/604180378/1039).  
+
+Najbardziej intrygująca część tej teorii, jeśli jest ona prawdziwa, to fakt, że tłumaczy ona nie tylko to, jakich dyskusji unikać, ale i jak mieć lepsze pomysły. Jeśli ludzie nie potrafią myśleć trzeźwo o niczym, co stało się częścią ich tożsamości, to pomijając wszystko inne, najlepiej jest włączać do swojej tożsamości jak najmniej. [2]  
+
+Większość czytających to ludzi jest już dosyć tolerancyjna. Ale można pójść dalej niż uważać się za "x" i tolerować "y": mianowicie, wcale nie uważać się za "x". Im więcej przyklejasz sobie etykietek, tym głupszym cię one czynią.  
+
+Przypisy  
+
+[1] Gdy już się to zacznie, dzieje się to szybko, jak reakcja łańcuchowa. Poziom wymagany od uczestników spada do zera, co ściąga kolejnych ludzi. Dyskusja zaognia się, padają coraz bardziej gniewne kontrargumenty.  
+
+[2] Są rzeczy, które może nawet opłaca się włączać do swojej tożsamości, na przykład bycie naukowcem. Można jednak powiedzieć, że to bardziej symbol zastępczy niż prawdziwa etykietka - jak wpisanie "brak" w miejscu na inicjał drugiego imienia w formularzu - bo nie angażuje cię to w wyznawanie żadnego konkretnego poglądu. Naukowiec nie musi wierzyć w dobór naturalny na tej samej zasadzie, według której fundamentalista biblijny musi go odrzucać. Naukowiec musi jedynie podążać za dowodami, gdziekolwiek go prowadzą.  
+
+Określanie się jako naukowiec jest analogiczne do wkładania do szafki tabliczki z napisem "Ta szafka ma być pusta". Tak, ściśle rzecz biorąc, włożyłeś coś do tej szafki, ale nie w potocznym, zwyczajnym sensie.  
+
+Podziękowania dla Sama Altmana, Trevora Blackwella, Paula Buchheita i Roberta Morrisa za przeczytanie wersji roboczej.  
+
+***  
+
+Oryginał powyższego tekstu to chyba pierwszy esej Paula Grahama, jaki przeczytałem, i do dziś jeden z moich ulubionych. Jeśli Ci się spodobał i znasz angielski, może zainteresować Cię, jak rozwinął ten temat [Ben Landau-Taylor](http://lesswrong.com/lw/idj/use_your_identity_carefully/) i reszta społeczności Less Wrong.  
+
+Polecam też [inne eseje Paula Grahama przetłumaczone na polski](http://esejepg.pl/).[:]  
