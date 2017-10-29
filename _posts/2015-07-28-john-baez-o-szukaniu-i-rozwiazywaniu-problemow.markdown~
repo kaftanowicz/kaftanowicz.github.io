@@ -1,21 +1,22 @@
 ---  
-author: admin  
-comments: true  
+  
+
 date: 2015-07-28 17:33:38+00:00  
-excerpt: '[:pl]Jak znajdować, wybierać i rozwiązywać użyteczne problemy badawcze?[:]'  
+excerpt: 'Jak znajdować, wybierać i rozwiązywać użyteczne problemy badawcze?'  
 layout: single  
 
-slug: john-baez-o-szukaniu-i-rozwiazywaniu-problemow  
+
 title: John Baez o szukaniu i rozwiązywaniu problemów  
-wordpress_id: 271  
-categories:  
-- Translations  
+lang: pl
+categories: ['Translations', 'Research'] 
 ---  
 
-[:pl]Oryginał: John Baez & Luke Muelhauser, [John Baez on Research Tactics](https://intelligence.org/2014/02/21/john-baez-on-research-tactics/), 2014  
+Oryginał: John Baez & Luke Muelhauser, [John Baez on Research Tactics](https://intelligence.org/2014/02/21/john-baez-on-research-tactics/), 2014  
 Przekład i opracowanie: Michał Kaftanowicz, lipiec 2015  
 
 John Baez to profesor matematyki i autor [pierwszego na świecie bloga](http://math.ucr.edu/home/baez/TWF.html) oraz inicjatywy [Azimuth Project](http://www.azimuthproject.org/azimuth/show/HomePage), której celem jest uratowanie świata dzięki badaniom nad [matematyką sieci](http://math.ucr.edu/home/baez/networks/) i układów złożonych. W wywiadzie dla Luke'a Muelhausera Baez dzieli się swoimi sposobami na poszukiwanie, wybór i rozwiązywanie użytecznych problemów badawczych.  
+
+---
 
 **Jak wymyślać dobre tematy do pracy i badań?**  
 
@@ -59,4 +60,4 @@ Nawet dla kogoś doświadczonego niektóre z pod-podproblemów, które zdają si
 (2) Jest wiele sposobów na upraszczanie problemów. Czasem powinieneś rozpatrzeć przypadek szczególny. W matematyce często występują szczególne przypadki szczególnych przypadków... masz wtedy duże pole do eksploracji. Jeśli rozpracujesz odpowiednio dużo przypadków szczególnych, odkryjesz pomysły, które mogą pomóc ci przy twoim oryginalnym problemie.  
 (3) Z drugiej strony, niektóre problemy możesz uprościć przez generalizowanie i pominięcie nieistotnych detali. Czasem zdarza się utknąć w nawale bałaganu. Nawet, jeśli generalizowanie nie pomoże, zauważysz dzięki temu, które detale były tak naprawdę istotne.  
 (4) Czasami, zamiast w górę lub w dół na drabinie abstrakcji, lepiej jest przemieścić się w bok i rozważyć analogiczny problem z innej, powiązanej dziedziny.  
-(5) I wreszcie ogólna podpowiedź: prowadź rejestr swojej pracy nad problemem, w tym wyjaśnienia, co nie zadziałało i dlaczego. Zaglądaj do niego od czasu do czasu. To niesamowite, jak często zdarza mi się być już blisko rozwiązania problemu, zapomnieć o tym, i wrócić do tego później - czasem po kilku latach - i spojrzeć na wszystko z trochę innej perspektywy, dzięki czemu wszystko nagle układa się w całość. Czasami tylko milimetry dzielą porażkę od sukcesu.[:]  
+(5) I wreszcie ogólna podpowiedź: prowadź rejestr swojej pracy nad problemem, w tym wyjaśnienia, co nie zadziałało i dlaczego. Zaglądaj do niego od czasu do czasu. To niesamowite, jak często zdarza mi się być już blisko rozwiązania problemu, zapomnieć o tym, i wrócić do tego później - czasem po kilku latach - i spojrzeć na wszystko z trochę innej perspektywy, dzięki czemu wszystko nagle układa się w całość. Czasami tylko milimetry dzielą porażkę od sukcesu.  

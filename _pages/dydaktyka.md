@@ -1,16 +1,14 @@
 ---
 layout: archive #single
-title: "Teaching"
-lang: en
+title: "Dydaktyka"
+lang: pl
 ref: teaching
 
-permalink: /teaching/
+permalink: /dydaktyka/
 author_profile: true
 header:
   image: /images/header.jpg
 ---
-{% include base_path %}
-
 {% assign posts=site.teaching | where:"lang", page.lang %}
 
 {% for post in posts reversed %}

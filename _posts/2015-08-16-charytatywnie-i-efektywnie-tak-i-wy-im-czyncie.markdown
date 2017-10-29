@@ -1,25 +1,25 @@
 ---  
-author: admin  
-comments: true  
+  
+
 date: 2015-08-16 13:38:51+00:00  
-excerpt: '[:pl]Krótkie wprowadzenie do efektywnego altruizmu.[:]'  
+excerpt: 'Krótkie wprowadzenie do efektywnego altruizmu.'  
 layout: single  
 
-slug: charytatywnie-i-efektywnie-tak-i-wy-im-czyncie  
+
 title: 'Charytatywnie i efektywnie: tak i wy im czyńcie'  
-
-categories:  
-- Translations  
+lang: pl
+categories: ['Translations', 'Effective altruism'] 
 ---  
-
-[:pl]Oryginał: Yvain ([Scott Alexander](http://slatestarcodex.com/about/)), [Efficient Charity: Do Unto Others...](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/), grudzień 2010  
+Oryginał: [Scott Alexander "Yvain"](http://slatestarcodex.com/about/), [Efficient Charity: Do Unto Others...](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/), grudzień 2010  
 Przekład: Michał Kaftanowicz, sierpień 2015  
+
+---
 
 Wyobraź sobie, że planujesz niebezpieczną ekspedycję w Arktykę i masz ograniczony budżet. Siwy, stary podróżnik stojący za ladą kręci głową ze smutkiem: nie stać cię na wszystko, czego potrzebujesz; musisz kupić tylko niezbędne minimum i mieć nadzieję na powodzenie. Ale co jest niezbędne? Czy powinieneś kupić najcieplejszą kurtkę, jeśli wtedy nie będzie cię stać na śpiwór? Czy powinieneś wziąć dodatkowe tygodniowe zapasy, na wszelki wypadek, jeśli wtedy nie będziesz mógł wziąć strzelby? A może kupić strzelbę, zostawić jedzenie i polować na obiad?  
 
-A co z przewodnikiem po arktycznych kwiatach? Lubisz kwiaty i byłoby szkoda, gdybyś nie mógł docenić surowego, ale delikatnego środowiska Arktyki. No i aparat cyfrowy, oczywiście  - jeśli wrócisz stamtąd żywy, to musisz wrzucić zdjęcia na Facebooka. I ręcznie tkany szalik z autentycznymi inuickimi wzorami plemiennymi, utkany z organicznych włókien! Super!  
+A co z przewodnikiem po arktycznych kwiatach? Lubisz kwiaty i byłoby szkoda, gdybyś nie mógł docenić surowego, ale delikatnego środowiska Arktyki. No i aparat cyfrowy, oczywiście  -- jeśli wrócisz stamtąd żywy, to musisz wrzucić zdjęcia na Facebooka. I ręcznie tkany szalik z autentycznymi inuickimi wzorami plemiennymi, utkany z organicznych włókien! Super!  
 
-<!-- more -->...ale przecież kupienie którejś z tych ostatnich rzeczy byłoby szaleństwem. To jest problem, który ekonomiści nazywają kosztem  alternatywnym: kupno każdej rzeczy kosztuje pieniądze, które możnaby wydać na kupno innej. Ręcznie tkany designerski szal może mieć jakąś wartość w Arktyce, ale kosztowałby tyle, że nie mógłbyś kupić ważniejszych rzeczy. A kiedy stawką jest twoje życie, rzeczy takie jak imponowanie swoim znajomym i kupowanie organicznych produktów tracą znaczenie. Masz jeden cel - przeżyć - i twoim jedynym problemem jest takie rozdzielenie zasobów, żeby mieć na to jak największe szanse. Takie zagadnienia ekonomiczne są naturalne, gdy mówimy o podróży przez zamarzniętą tundrę.  
+...ale przecież kupienie którejś z tych ostatnich rzeczy byłoby szaleństwem. To jest problem, który ekonomiści nazywają kosztem  alternatywnym: kupno każdej rzeczy kosztuje pieniądze, które możnaby wydać na kupno innej. Ręcznie tkany designerski szal może mieć jakąś wartość w Arktyce, ale kosztowałby tyle, że nie mógłbyś kupić ważniejszych rzeczy. A kiedy stawką jest twoje życie, rzeczy takie jak imponowanie swoim znajomym i kupowanie organicznych produktów tracą znaczenie. Masz jeden cel -- przeżyć -- i twoim jedynym problemem jest takie rozdzielenie zasobów, żeby mieć na to jak największe szanse. Takie zagadnienia ekonomiczne są naturalne, gdy mówimy o podróży przez zamarzniętą tundrę.  
 
 Nie wydają się natomiast naturalne, gdy decydujemy o wpłatach na akcje charytatywne. Większość dawców mówi, że chce "pomagać ludziom". Jeśli to prawda, to powinni starać się rozdzielić swoje zasoby tak, żeby pomóc ludziom w jak największym stopniu. Większość ludzi tego nie robi. Podczas kampanii "Kup jedno pociągnięcie pędzlem", jedenaście tysięcy Brytyjczyków podarowało w sumie 550 000 funtów, żeby słynny obraz "Błękitna Rigi" został w brytyjskim muzeum. Gdyby wpłacili te 550 000 funtów na budowę lepszych systemów sanitarnych w afrykańskich wioskach, najnowsze dane pokazują, że ocaliliby około tysiąca dwustu ludzi przed śmiercią z powodu chorób. Każda wpłata wysokości 50 dolarów mogła dać rok normalnego życia człowiekowi z Trzeciego Świata cierpiącemu z powodu ślepoty lub deformacji kończyn...  
 
@@ -41,8 +41,12 @@ Podobnie, jak jest tylko jedna, najlepsza organizacja charytatywna, jest też je
 
 ...to samo tyczy się sytuacji, gdyby pragnienie filantropii zaprowadziło go do pracy na pełen etat w organizacji non-profit zamiast pójścia na studia prawnicze i zostania prawnikiem, który zarabia 1000 dolarów na godzinę. Chyba, że to naprawdę NIESAMOWITA organizacja non-profit.  
 
-Rzymski historyk [Salustiusz](https://pl.wikipedia.org/wiki/Salustiusz) napisał o [Katonie](https://pl.wikipedia.org/wiki/Kato_Starszy): "Wolał być dobry, niż sprawiać takie wrażenie". Prawnik, który odchodzi z potężnej firmy, żeby pracować dla organizacji non-profit z pewnością sprawia wrażenie dobrej osoby. Ale jeśli zdefiniujemy "dobro" jako pomaganie ludziom, to prawnik, który zostaje w swojej firmie i wpłaca pieniądze na akcje charytatywne obiera ścieżkę Katona: maksymalizowanie ilości dobra, które czyni, zamiast wrażenia dobra, które sprawia.  
+Rzymski historyk [Salustiusz](https://pl.wikipedia.org/wiki/Salustiusz) napisał o [Katonie](https://pl.wikipedia.org/wiki/Kato_Starszy): "Wolał *być* dobry, niż sprawiać takie wrażenie". Prawnik, który odchodzi z potężnej firmy, żeby pracować dla organizacji non-profit z pewnością sprawia wrażenie dobrej osoby. Ale jeśli zdefiniujemy "dobro" jako pomaganie ludziom, to prawnik, który zostaje w swojej firmie i wpłaca pieniądze na akcje charytatywne obiera ścieżkę Katona: maksymalizowanie ilości dobra, które czyni, zamiast wrażenia dobra, które sprawia.  
 
-Ten rozdźwięk między byciem i zdawaniem się dobrym stosuje się nie tylko do sprawiania wrażenia wobec innych, ale i wobec nas samych. Kiedy wpłacamy pieniądze na akcję charytatywną, jedną z motywacji jest ciepłe uczucie zrobienia czegoś dobrego. Prawnik, który spędzi dzień na zbieraniu śmieci będzie miał poczucie osobistego związku z własnym poświęceniem; będzie przeżywał wspomnienie swojego dobrego uczynku za każdym razem, gdy razem z przyjaciółmi pójdzie znów na tę plażę. Prawnik, który wyrabia nadgodziny i wpłaca pieniądze przez Internet na głodujące sieroty w Rumunii może nigdy nie doznać tego ciepłego uczucia. Ale troska o ciepłe uczucie to, u samego źródła, troska o zdawanie się dobrym, a nie o bycie dobrym - tylko tym razem o zdawanie się dobrym samemu sobie zamiast innym. Nie ma nic złego we wpłacaniu na akcje charytatywne w formie rozrywki, jeśli tego właśnie chcesz - ofiarowanie pieniędzy na Fundusz Sztuki może być szybszą drogą do kupienia sobie ciepłych uczuć niż oglądanie komedii romantycznej w kinie - ale działalność charytatywna w wykonaniu ludzi, którzy rzeczywiście chcą być dobrzy, a nie tylko się tak czuć, wymaga więcej namysłu.  
+Ten rozdźwięk między byciem i zdawaniem się dobrym stosuje się nie tylko do sprawiania wrażenia wobec innych, ale i wobec nas samych. Kiedy wpłacamy pieniądze na akcję charytatywną, jedną z motywacji jest ciepłe uczucie zrobienia czegoś dobrego. Prawnik, który spędzi dzień na zbieraniu śmieci będzie miał poczucie osobistego związku z własnym poświęceniem; będzie przeżywał wspomnienie swojego dobrego uczynku za każdym razem, gdy razem z przyjaciółmi pójdzie znów na tę plażę. Prawnik, który wyrabia nadgodziny i wpłaca pieniądze przez Internet na głodujące sieroty w Rumunii może nigdy nie doznać tego ciepłego uczucia. Ale troska o ciepłe uczucie to, u samego źródła, troska o zdawanie się dobrym, a nie o bycie dobrym -- tylko tym razem o zdawanie się dobrym samemu sobie zamiast innym. Nie ma nic złego we wpłacaniu na akcje charytatywne w formie rozrywki, jeśli tego właśnie chcesz -- ofiarowanie pieniędzy na Fundusz Sztuki może być szybszą drogą do kupienia sobie ciepłych uczuć niż oglądanie komedii romantycznej w kinie -- ale działalność charytatywna w wykonaniu ludzi, którzy rzeczywiście chcą być dobrzy, a nie tylko się tak czuć, wymaga więcej namysłu.  
 
-Racjonalne podejście do akcji charytatywnych jest ważne z tego samego powodu, dla którego ważne jest racjonalne podejście do wypraw arktycznych: wymaga takiej samej świadomości kosztów alternatywnych i takiego samego konsekwentnego zaangażowania w badanie efektywnego wykorzystania zasobów, i tak samo może być kwestią życia i śmierci.[:]  
+Racjonalne podejście do akcji charytatywnych jest ważne z tego samego powodu, dla którego ważne jest racjonalne podejście do wypraw arktycznych: wymaga takiej samej świadomości kosztów alternatywnych i takiego samego konsekwentnego zaangażowania w badanie efektywnego wykorzystania zasobów, i tak samo może być kwestią życia i śmierci.  
+
+---
+
+Artykuł ten -- po drobnych zmianach redakcyjnych -- wszedł w skład polskiej edycji [Podręcznika efektywnego altruizmu](http://www.efektywnyaltruizm.pl/files/podrecznik.pdf).

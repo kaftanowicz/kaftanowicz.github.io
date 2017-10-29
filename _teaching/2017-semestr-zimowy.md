@@ -1,6 +1,6 @@
 ---
-title: "2017, fall semester"
-lang: en
+title: "2017, semestr zimowy"
+lang: pl
 ref: 2017-fall-semester
 collection: teaching
 updated: false
@@ -18,4 +18,4 @@ location: "Warsaw"
 ### Ćwiczenia laboratoryjne
 Materiały do ćwiczeń są dostępne na [github.com/kaftanowicz/sgh_ird_2017](https://github.com/kaftanowicz/sgh_ird_2017).
 
-IN ENGLISH (?)
+PO POLSKU

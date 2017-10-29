@@ -1,8 +1,10 @@
 ---
-layout: single #home
+layout: single #home #single
 author_profile: true
 header:
   image: /images/header.jpg
+lang: en
+ref: index
 ---
 To contact me, send an email to michal at my last name dot com.
 

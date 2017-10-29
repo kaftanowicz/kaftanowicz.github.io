@@ -2,25 +2,19 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-<!--menu was here-->
+        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}
 
-
-<a class="site-title"></a>
-
-<ul class="visible-links">
-
-<!--main menu-->
-{% for menu in site.t[page.lang] %}
-    <a href="{{ menu[1].url }}">{{ menu[1].name }}</a>
-  {% endfor %}
-
-<!--language selection-->
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
-    <a href="{{ page.url }}" class="{{ page.lang }}"><langlink>{{ page.lang }}</langlink></a>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
 {% endfor %}
 
-</ul>   
+</a>
+        <ul class="visible-links">
+  {% for menu in site.t[page.lang] %}
+    <a href="{{ menu[1].url }}">{{ menu[1].name }}</a>
+  {% endfor %}
+        </ul>
         <button type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
           <div class="navicon"></div>

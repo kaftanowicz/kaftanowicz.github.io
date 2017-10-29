@@ -1,24 +1,25 @@
 ---  
-author: admin  
-comments: true  
+  
+
 date: 2015-09-20 17:45:58+00:00  
-excerpt: '[:pl]O pewnym wzorcu w ludzkim zachowaniu.[:]'  
+excerpt: 'O pewnym wzorcu w ludzkim zachowaniu.'  
 layout: single  
 
-slug: co-to-jest-umeszyzm  
-title: Co to jest umeszyzm?  
 
+title: Co to jest umeszyzm?  
+lang: pl
+categories: ['Humans']
 ---  
 
-[:pl]  
+  
 
 <blockquote>Jeśli nigdy nie spóźniłeś się na samolot, to tracisz za dużo czasu na lotniskach.</blockquote>  
 
 
 
-Umeszyzm to obserwacja na temat wzorca w ludzkim zachowaniu: jeśli nigdy nie przydarza ci się jakiś problem, to może poświęcasz za dużo czasu na zapobieganie mu. Jeżeli problem jest dostatecznie mały, a koszt zapobiegania odpowiednio duży, to takie zachowanie jest nieracjonalne - na dłuższą metę bardziej opłaca się skupienie na ważnych sprawach i odpuszczenie sobie mniej istotnych.  
+Umeszyzm to obserwacja na temat wzorca w ludzkim zachowaniu: jeśli nigdy nie przydarza ci się jakiś problem, to może poświęcasz za dużo czasu na zapobieganie mu. Jeżeli problem jest dostatecznie mały, a koszt zapobiegania odpowiednio duży, to takie zachowanie jest nieracjonalne -- na dłuższą metę bardziej opłaca się skupienie na ważnych sprawach i odpuszczenie sobie mniej istotnych.  
 
-Nazwa _umeszyzm _pochodzi od imienia profesora [Umesha Vaziraniego](http://www.cs.berkeley.edu/~vazirani/), który zabawiał studentów swoim powiedzeniem o samolotach, a spopularyzował ją jego dyplomant, Scott Aaronson. Na swoim blogu doktor Aaronson ogłosił [konkurs](http://www.scottaaronson.com/blog/?p=40) na inne umeszyzmy i wybrał [kilka najlepszych](http://www.scottaaronson.com/blog/?p=42):  
+Nazwa _umeszyzm_ pochodzi od imienia profesora [Umesha Vaziraniego](http://www.cs.berkeley.edu/~vazirani/), który zabawiał studentów swoim powiedzeniem o samolotach, a spopularyzował ją jego dyplomant, Scott Aaronson. Na swoim blogu doktor Aaronson ogłosił [konkurs](http://www.scottaaronson.com/blog/?p=40) na inne umeszyzmy i wybrał [kilka najlepszych](http://www.scottaaronson.com/blog/?p=42):  
 
 
 
@@ -38,4 +39,4 @@ Jeśli nigdy nie miałeś dziecka, to tracisz za dużo czasu na zabezpieczenie.
 </blockquote>  
 
 
-[:]  
+  

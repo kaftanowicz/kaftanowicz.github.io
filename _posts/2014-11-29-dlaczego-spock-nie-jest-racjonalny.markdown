@@ -1,23 +1,24 @@
 ---  
-author: admin  
-comments: true  
+  
+
 date: 2014-11-29 19:49:39+00:00  
-excerpt: '[:pl]I dlaczego Hollywood nie umie przedstawiać racjonalnych bohaterów.[:]'  
+excerpt: 'I dlaczego Hollywood nie umie przedstawiać racjonalnych bohaterów.'  
 layout: single  
 
-slug: dlaczego-spock-nie-jest-racjonalny  
-title: Dlaczego Spock nie jest racjonalny  
 
-categories:  
-- Translations  
+title: Dlaczego Spock nie jest racjonalny  
+lang: pl
+categories: ['Translations', 'Rationality'] 
 ---  
 
-[:en]<!-- more -->[:pl]Oryginał: Luke Muehlhauser, [Why Spock is Not Rational](http://intelligenceexplosion.com/en/2011/why-spock-is-not-rational/), 2011  
+Oryginał: Luke Muehlhauser, [Why Spock is Not Rational](http://intelligenceexplosion.com/en/2011/why-spock-is-not-rational/), 2011  
 Przekład: Michał Kaftanowicz, listopad 2014  
+
+---
 
 [Spock](http://en.wikipedia.org/wiki/Spock) ze _Star Treka_ nie jest wcale wzorem logiki i racjonalności, za jakiego może go uważasz. Jest ["słomianą kukłą"](http://pl.wikipedia.org/wiki/Sofizmat_rozszerzenia) racjonalności, używaną do dowodzenia (błędnie), że emocje i nieracjonalność są lepsze od logiki.  
 
-<!-- more -->Typowa scenka wygląda tak:  
+Typowa scenka wygląda tak:  
 
 
 
@@ -40,11 +41,11 @@ Czasem to racjonalne, żeby szukać więcej informacji, zanim zacznie się dzia�
 
 
 <blockquote>  
-Musiałby przyjrzeć się prawdopodobieństwom różnych skutków poślubienia każdej z nich - czy wciąż rozmawiałaby z nim po ślubie, czy dbałaby o ich dzieci, i na czym tylko jeszcze mu zależy - i wartościom każdej z tych rzeczy... Po wielu latach badań odkryłby pewnie, że jego ostateczna wybranka poślubiła już kogoś innego, kto nie wykonywał żadnych obliczeń, a po prostu się w niej zakochał. [4]</blockquote>  
+Musiałby przyjrzeć się prawdopodobieństwom różnych skutków poślubienia każdej z nich -- czy wciąż rozmawiałaby z nim po ślubie, czy dbałaby o ich dzieci, i na czym tylko jeszcze mu zależy -- i wartościom każdej z tych rzeczy... Po wielu latach badań odkryłby pewnie, że jego ostateczna wybranka poślubiła już kogoś innego, kto nie wykonywał żadnych obliczeń, a po prostu się w niej zakochał. [4]</blockquote>  
 
 
 
-Takie zachowanie jest nieracjonalne - to błąd w oszacowaniu właściwej [wartości informacji](http://lesswrong.com/lw/85x/value_of_information_four_examples/).  
+Takie zachowanie jest nieracjonalne -- to błąd w oszacowaniu właściwej [wartości informacji](http://lesswrong.com/lw/85x/value_of_information_four_examples/).  
 
 Trzeci przykład racjonalności według Hollywood u Galef to opaczna zasada, według której "być racjonalnym to nigdy nie polegać na intuicji". Na przykład, w jednym z odcinków _Star Treka_ Kirk i Spock grają w trójwymiarowe szachy. Kiedy Kirk daje mata Spockowi, Spock odpowiada: "Twoje nielogiczne podejście do szachów przynosi czasem pożytek, Kapitanie". [5]  
 
@@ -74,4 +75,4 @@ Dobrze używana racjonalność to ["systematyczne zwyciężanie"](http://lesswro
 
 [5] D. C. Fontana, "Charlie X", _Star Trek: The Original Series_, sezon 1, odcinek 7, reż. Lawrence Dobkin, premiera 15 września 1966 (CBS).  
 
-[6] Galef, ["Słomiana kukła Wolkana"](http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/), pogrubienie moje.[:]  
+[6] Galef, ["Słomiana kukła Wolkana"](http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/), pogrubienie moje.  

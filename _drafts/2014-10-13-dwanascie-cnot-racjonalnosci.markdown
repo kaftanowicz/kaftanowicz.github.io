@@ -1,23 +1,18 @@
 ---  
-author: admin  
-comments: true  
 date: 2014-10-13 20:07:29+00:00  
-excerpt: '[:pl]Myślenie jako sztuka walki z rzeczywistością i z samym sobą.[:]'  
+excerpt: Myślenie jako sztuka walki z rzeczywistością i z włassamym sobą.'
 layout: single  
-
-slug: dwanascie-cnot-racjonalnosci  
 title: Dwanaście cnót racjonalności  
-
-categories:  
-- Translations  
+lang: pl
+categories: ['Translation']
 ---  
 
-[:en]<!-- more -->[:pl]Oryginał: Eliezer Yudkowsky, [Twelve Virtues of Rationality](http://yudkowsky.net/rational/virtues/), 2006  
+Oryginał: Eliezer Yudkowsky, [Twelve Virtues of Rationality](http://yudkowsky.net/rational/virtues/), 2006  
 Przekład: Michał Kaftanowicz, październik 2014  
 
 Pierwsza cnota to ciekawość. Paląca chęć dowiedzenia się jest więcej warta niż uroczysta przysięga dążenia do prawdy. Aby poczuć palącą ciekawość, musisz naraz nie wiedzieć i chcieć się dowiedzieć. Jeśli w głębi serca wierzysz, że już wiesz, lub jeśli w głębi serca wcale nie chcesz wiedzieć, wtedy twoje dociekania będą bezcelowe, a umiejętności pozbawione kierunku. Ciekawość dąży do unicestwienia samej siebie; nie ma ciekawości bez chęci odpowiedzi. Wspaniałą tajemnicę należy wspaniale rozwiązać; potem przestaje być tajemnicą. Strzeż się tych, którzy mówią o otwartości swoich umysłów i skromnie przyznają się do niewiedzy. Jest czas, żeby przyznawać się do niewiedzy i czas, żeby swoją niewiedzę przezwyciężyć.  
 
-<!-- more -->Druga cnota to wyrzeczenie. P. C. Hodgell powiedziała: "Co da się zniszczyć dzięki prawdzie, zniszczyć należy". Nie unikaj doświadczeń, które mogłyby zniszczyć twoje przekonania. Myśl, której nie umiesz pomyśleć, kontroluje cię bardziej niż myśl, którą wypowiadasz głośno. Poddaj się próbom i sprawdź się w ogniu. Wyrzecz się emocji, które opierają się na błędnych przekonaniach, i staraj się poczuć w pełni te, które odpowiadają faktom. Jeśli żelazo zbliża się do twojej twarzy, a ty wierzysz, że jest gorące, zaś ono jest zimne, to Droga przeciwstawia się twojemu strachowi. Jeśli żelazo zbliża się do twojej twarzy, a ty wierzysz, że jest zimne, zaś ono jest gorące, to Droga przeciwstawia się twojemu spokojowi. Najpierw sprawdź swoje przekonania, a potem poddaj się emocjom. Powiedz sobie: jeśli żelazo jest gorące, to pragnę wierzyć, że jest gorące, a jeśli jest zimne, to pragnę wierzyć, że jest zimne. Uważaj, byś nie przywiązał się do przekonań, których możesz nie chcieć.  
+Druga cnota to wyrzeczenie. P. C. Hodgell powiedziała: "Co da się zniszczyć dzięki prawdzie, zniszczyć należy". Nie unikaj doświadczeń, które mogłyby zniszczyć twoje przekonania. Myśl, której nie umiesz pomyśleć, kontroluje cię bardziej niż myśl, którą wypowiadasz głośno. Poddaj się próbom i sprawdź się w ogniu. Wyrzecz się emocji, które opierają się na błędnych przekonaniach, i staraj się poczuć w pełni te, które odpowiadają faktom. Jeśli żelazo zbliża się do twojej twarzy, a ty wierzysz, że jest gorące, zaś ono jest zimne, to Droga przeciwstawia się twojemu strachowi. Jeśli żelazo zbliża się do twojej twarzy, a ty wierzysz, że jest zimne, zaś ono jest gorące, to Droga przeciwstawia się twojemu spokojowi. Najpierw sprawdź swoje przekonania, a potem poddaj się emocjom. Powiedz sobie: jeśli żelazo jest gorące, to pragnę wierzyć, że jest gorące, a jeśli jest zimne, to pragnę wierzyć, że jest zimne. Uważaj, byś nie przywiązał się do przekonań, których możesz nie chcieć.  
 
 Trzecia cnota to lekkość. Pozwól, by strumień dowodów poniósł cię jak liść, nie kieruj się samodzielnie. Strzeż się, abyś nie wycofywał się przed dowodami jak na wojnie, niechętnie ustępując pola tylko pod przymusem, w poczuciu bycia oszukanym. W obliczu prawdy poddaj się tak szybko, jak zdołasz. Uczyń to, gdy tylko uświadomisz sobie, czemu się opierasz; gdy tylko zobaczysz, z której strony płynie strumień dowodów. Nie wierz we własną sprawę i zdradź ją dla silniejszego wroga. Jeśli uważasz dowody za ograniczenie i starasz się oswobodzić, oddajesz się w niewolę własnym zachciankom. Nie da się bowiem wykreślić wiernej mapy miasta, bazgrząc z zamkniętymi oczami w sypialni. Musisz wyjść do miasta i rysować na papierze kreski, które odpowiadają temu, co widzisz. Gdybyś, widząc niejasno, pomyślał, że możesz przesunąć kreskę trochę na prawo, trochę na lewo, jak ci przyjdzie ochota, byłby to taki sam błąd.  
 
@@ -57,4 +52,4 @@ Jeśli będziesz latami ćwiczył te techniki i poddasz się ścisłym ogranicze
 
 Oto jest zatem dwanaście cnót racjonalności:  
 
-Ciekawość, wyrzeczenie, lekkość, bezstronność, spór, empiryzm, prostota, pokora, perfekcjonizm, precyzja, uczoność, i pustka.[:]  
+Ciekawość, wyrzeczenie, lekkość, bezstronność, spór, empiryzm, prostota, pokora, perfekcjonizm, precyzja, uczoność, i pustka.  

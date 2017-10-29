@@ -10,9 +10,9 @@ minimal_mistakes_skin    : "contrast" #"default",  "air", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "Discretized continuum" #"formalise to automate"
+title                    : "Michał Kaftanowicz" #"" #"formalise to automate"
 title_separator          : "-"
-name                     : "Michał Kaftanowicz"
+name                     : #"Michał Kaftanowicz"
 description              : "Personal website of Michał Kaftanowicz."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-107938402-1"
 
 
 # Site Author
@@ -150,6 +150,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - "*.sh" # shell scripts, e.g. for uploading
+  - "*.gemspec"
 keep_files:
   - .git
   - .svn
@@ -161,7 +162,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: <!--more-->
 incremental: false
 
 
@@ -219,7 +220,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /writings/
 tag_archive:
   type: liquid
   path: /tags/
@@ -258,6 +259,34 @@ defaults:
       share: true
       related: true
       updated: true
+
+
+t:
+  en:
+    home:
+      name: "Main"
+      url: "/"
+
+    writings:
+      name: "Writings"
+      url: "/writings/"
+
+
+    teaching:
+      name: "Teaching"
+      url: "/teaching/"
+  pl:
+    home:
+      name: "Główna"
+      url: "/pl"
+
+    writing:
+      name: "Teksty"
+      url: "/teksty/"
+
+    teaching:
+      name: "Dydaktyka"
+      url: "/dydaktyka/"
 
 
 

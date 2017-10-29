@@ -1,20 +1,20 @@
 ---  
-author: admin  
-comments: true  
+  
+
 date: 2015-08-02 11:27:49+00:00  
-excerpt: '[:pl]Krótkie, eksperymentalne opowiadanie sci-fi napisane w formie FAQ grupy  
-  dyskusyjnej z czasów Usenetu.[:]'  
+excerpt: 'Krótkie, eksperymentalne opowiadanie sci-fi napisane w formie FAQ grupy dyskusyjnej z czasów Usenetu.'  
 layout: single  
 
-slug: faq-grupy-pl-comp-basilisk  
+
 title: FAQ grupy pl.comp.basilisk  
-wordpress_id: 273  
-categories:  
-- Translations  
+lang: pl
+categories: ['Translations', 'Literature'] 
 ---  
 
-[:pl]Oryginał: David Langford, [comp.basilisk FAQ](http://ansible.uk/writing/c-b-faq.html), 1999  
+Oryginał: David Langford, [comp.basilisk FAQ](http://ansible.uk/writing/c-b-faq.html), 1999  
 Przekład: Michał Kaftanowicz, sierpień 2015  
+
+---
 
 Najczęściej zadawane pytania  
 
@@ -70,4 +70,4 @@ To jest pytanie do grupy pl.news.announce.newusers, ale pada tu od czasu do czas
 
 10. Czy to prawda, że Microsoft używa pułapek bazyliszkowych do zabezpieczania Windows Ultra przed dezasemblacją i piraceniem?  
 
-Bez komentarza.[:]  
+Bez komentarza.  

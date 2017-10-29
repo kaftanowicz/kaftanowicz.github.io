@@ -1,12 +1,16 @@
 # main links
- main:
-   - title: "Teaching"
-     url: /teaching/
+# main:
 
-  # - title: "Essays"
-  #   url: /essays/
-  #  - title: "Quick-Start Guide"
-  #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+ #  - title: "Writing"
+  #   url: /writing/
+
+ #  - title: "Translating"
+  #   url: /translating/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
