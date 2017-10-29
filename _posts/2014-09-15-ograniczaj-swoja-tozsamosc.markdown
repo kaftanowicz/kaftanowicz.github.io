@@ -1,10 +1,11 @@
 ---  
 date: 2014-09-15 18:32:57+00:00  
-excerpt: Nie warto przywiązywać się do tego, kim się jest.
+excerpt: Nie warto przywiązywać się do tego, za kogo się uważamy.
 layout: single  
 title: Ograniczaj swoją tożsamość  
 lang: pl
-categories: ['Translations', 'Humans', 'Rationality']
+translated: true
+categories: ['Humans', 'Rationality']
 ---  
 
 Oryginał: Paul Grahm, [Keep Your Identity Small](http://www.paulgraham.com/identity.html), luty 2009  

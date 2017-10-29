@@ -8,7 +8,8 @@ layout: single
 
 title: Morfina (Heinrich Heine)  
 lang: pl
-categories: ['Translations', 'Poetry'] 
+translated: true
+categories: ['Poetry'] 
 ---  
 
 Nie znalazłem w Internecie polskiego przekładu wiersza "Morphine" [Heinricha Heinego](http://encyklopedia.pwn.pl/haslo/Heine-Heinrich;3910687.html), więc przetłumaczyłem go sam.  

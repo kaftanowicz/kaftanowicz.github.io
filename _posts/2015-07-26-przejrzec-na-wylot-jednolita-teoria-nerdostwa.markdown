@@ -3,7 +3,8 @@ date: 2015-07-26 19:02:14+00:00
 layout: single  
 title: "Przejrzeć na wylot: jednolita teoria nerdostwa"
 lang: pl
-categories: ['Translations', 'Insight porn']
+translated: true
+categories: ['Insight porn']
 excerpt: "Wszystko, co chcielibyście wiedzieć o pojmografii, ale baliście się zapytać."
 ---  
 

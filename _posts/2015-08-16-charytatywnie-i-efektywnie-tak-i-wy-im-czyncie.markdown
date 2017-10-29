@@ -8,7 +8,8 @@ layout: single
 
 title: 'Charytatywnie i efektywnie: tak i wy im czyńcie'  
 lang: pl
-categories: ['Translations', 'Effective altruism'] 
+translated: true
+categories: ['Effective altruism'] 
 ---  
 Oryginał: [Scott Alexander "Yvain"](http://slatestarcodex.com/about/), [Efficient Charity: Do Unto Others...](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/), grudzień 2010  
 Przekład: Michał Kaftanowicz, sierpień 2015  

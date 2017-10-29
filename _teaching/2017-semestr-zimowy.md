@@ -7,8 +7,6 @@ updated: false
 layout: single
 excerpt_separator: ""
 author_profile: true
-header:
-  image: /images/header.jpg
 year: 2017
 semester: "fall"
 venue: "Warsaw School of Economics"
@@ -17,5 +15,3 @@ location: "Warsaw"
 ## Indukowane Reguły Decyzyjne
 ### Ćwiczenia laboratoryjne
 Materiały do ćwiczeń są dostępne na [github.com/kaftanowicz/sgh_ird_2017](https://github.com/kaftanowicz/sgh_ird_2017).
-
-PO POLSKU

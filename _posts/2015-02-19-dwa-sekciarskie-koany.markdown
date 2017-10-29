@@ -6,8 +6,9 @@ excerpt: Przypowieść o sekciarstwie i racjonalności.
 layout: single  
 title: Dwa sekciarskie koany  
 lang: pl
-
-categories: ['Translations', 'Rationality'] 
+translated: true
+categories: ['Rationality']
+ref: two-cult-coans
 ---  
 
 Oryginał: Eliezer Yudkowsky, [Two Cult Koans](http://lesswrong.com/lw/m4/two_cult_koans/), grudzień 2007  

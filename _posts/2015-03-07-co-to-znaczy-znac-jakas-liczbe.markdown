@@ -3,6 +3,7 @@ date: 2015-03-07 19:43:06+00:00
 layout: single
 title: Co to znaczy znać jakąś liczbę?
 lang: pl
+translated: false
 categories: ['Philosophy']
 excerpt: Filozofia potrzebuje złożoności obliczeniowej.
 ---  

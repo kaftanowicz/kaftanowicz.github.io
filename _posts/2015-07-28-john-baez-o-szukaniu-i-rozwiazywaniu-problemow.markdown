@@ -8,7 +8,8 @@ layout: single
 
 title: John Baez o szukaniu i rozwiązywaniu problemów  
 lang: pl
-categories: ['Translations', 'Research'] 
+translated: true
+categories: ['Research'] 
 ---  
 
 Oryginał: John Baez & Luke Muelhauser, [John Baez on Research Tactics](https://intelligence.org/2014/02/21/john-baez-on-research-tactics/), 2014  

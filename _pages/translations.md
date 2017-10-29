@@ -1,21 +1,21 @@
 ---
 layout: archive #single
-title: "Teksty"
-lang: pl
-ref: writings
+title: "Translations"
+lang: en
+ref: translations
 
-permalink: /teksty/
+permalink: /translations/
 author_profile: true
 header:
   image: /images/header.jpg
 ---
 
-Teksty, które napisałem po polsku, posortowane kategoriami. 
+Looks like I haven't translated anything in English here yet. There should be more stuff on the Polish version of this page.
 
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] | where:"lang", page.lang | where:"translated", false %}
+  {% assign posts = group_items[forloop.index0] | where:"lang", page.lang | where:"translated", true %}
 {% unless posts.size == 0 %}
   <h1 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h1>
   {% for post in posts %}
@@ -23,6 +23,4 @@ Teksty, które napisałem po polsku, posortowane kategoriami.
   {% endfor %}
 {% endunless %}
 {% endfor %}
-
-
 

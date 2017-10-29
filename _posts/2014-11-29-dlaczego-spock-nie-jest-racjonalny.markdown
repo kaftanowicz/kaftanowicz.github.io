@@ -8,7 +8,8 @@ layout: single
 
 title: Dlaczego Spock nie jest racjonalny  
 lang: pl
-categories: ['Translations', 'Rationality'] 
+translated: true
+categories: ['Rationality'] 
 ---  
 
 Oryginał: Luke Muehlhauser, [Why Spock is Not Rational](http://intelligenceexplosion.com/en/2011/why-spock-is-not-rational/), 2011  
@@ -32,7 +33,7 @@ McCoy: Byli całkowicie przewidywalni, dla każdego, kto ma uczucia! Proszę prz
 
 
 
-Oczywiście, nie ma nic logicznego w tym, żeby oczekiwać od nielogicznych istot logicznego zachowania. Spock miał mnóstwo dowodów na to, że ci kosmici byli uczuciowi, więc oczekiwanie od nich racjonalnego zachowania było całkowicie _nie_racjonalne!  
+Oczywiście, nie ma nic logicznego w tym, żeby oczekiwać od nielogicznych istot logicznego zachowania. Spock miał mnóstwo dowodów na to, że ci kosmici byli uczuciowi, więc oczekiwanie od nich racjonalnego zachowania było całkowicie *nie*racjonalne!  
 
 Ukradłem ten przykład z prelekcji Julii Galef pt. ["Słomiana kukła Wolkana"](http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/). [2] Jej drugim przykładem "słomianej kukły racjonalności", lub [racjonalności według Hollywood](http://wiki.lesswrong.com/wiki/Hollywood_rationality), jest pomysł, że nie należy podejmować decyzji, dopóki nie ma się wszystkich potrzebnych informacji. Ten motyw też trafił się w _Star Treku_. Gdy gigantyczna kosmiczna ameba pojawiła się w pobliżu _Enterprise_, Kirk prosi Spocka o analizę. Spock odpowiada: "Nie mam żadnej analizy z powodu niewystarczającej ilości informacji... W komputerach nie ma nic na temat tego zjawiska. Ono wykracza poza nasze doświadczenie, a nowe informacje nie są jeszcze dostatecznie znaczące." [3]  
 
@@ -59,17 +60,17 @@ Dobrze używana racjonalność to ["systematyczne zwyciężanie"](http://lesswro
 
 
 
-<blockquote>Jeżeli sądziz, że zachowujesz sę racjonalnie, ale raz za razem dochodzisz do błędnej odpowiedzi i raz za razem ci nie wychodzi, to nie wyciągaj z tego wniosku, że racjonalność jest słaba. **To ty jesteś słaby z racjonalności.** [6]</blockquote>  
+<blockquote>Jeżeli sądziz, że zachowujesz sę racjonalnie, ale raz za razem dochodzisz do błędnej odpowiedzi i raz za razem ci nie wychodzi, to nie wyciągaj z tego wniosku, że racjonalność jest słaba. <b>To ty jesteś słaby z racjonalności.</b> [6]</blockquote>  
 
 
 
 (...)  
 
-[1] Oliver Crawford, "The Galileo Seven",_ Star Trek: The Original Series_, sezon 1, odcinek 13, reż. Robert Gist, premiera 5 stycznia 1967 (CBS).  
+[1] Oliver Crawford, "The Galileo Seven", _Star Trek: The Original Series_, sezon 1, odcinek 13, reż. Robert Gist, premiera 5 stycznia 1967 (CBS).  
 
 [2] Julia Galef, "The Straw Vulcan: Hollywood’s Illogical Approach to Logical Decisionmaking", Measure of Doubt (blog), 26 listopada 2011, dostęp 10 listopada 2012, [http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/](http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/).  
 
-[3] Robert Sabaroff, "The Immunity Syndrome",_ Star Trek: The Original Series_, sezon 2, odcinek 19, reż. Joseph Pevney, premiera 19 stycznia 1968 (CBS).  
+[3] Robert Sabaroff, "The Immunity Syndrome", _Star Trek: The Original Series_, sezon 2, odcinek 19, reż. Joseph Pevney, premiera 19 stycznia 1968 (CBS).  
 
 [4] Gerd Gigerenzer, "Smart Heuristics", Edge, 29 marca 2003, [http://edge.org/conversation/smart-heuristics-gerd-gigerenzer](http://edge.org/conversation/smart-heuristics-gerd-gigerenzer).  
 

@@ -8,7 +8,8 @@ layout: single
 
 title: FAQ grupy pl.comp.basilisk  
 lang: pl
-categories: ['Translations', 'Literature'] 
+translated: true
+categories: ['Literature'] 
 ---  
 
 Oryginał: David Langford, [comp.basilisk FAQ](http://ansible.uk/writing/c-b-faq.html), 1999  

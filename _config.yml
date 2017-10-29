@@ -264,12 +264,16 @@ defaults:
 t:
   en:
     home:
-      name: "Main"
+      name: "Home"
       url: "/"
 
     writings:
       name: "Writings"
       url: "/writings/"
+
+    translations:
+      name: "Translations"
+      url: "/translations/"
 
 
     teaching:
@@ -280,15 +284,17 @@ t:
       name: "Główna"
       url: "/pl"
 
-    writing:
+    writings:
       name: "Teksty"
       url: "/teksty/"
+
+    translations:
+      name: "Przekłady"
+      url: "/przeklady/"
 
     teaching:
       name: "Dydaktyka"
       url: "/dydaktyka/"
-
-
 
 # Defaults
 #defaults:

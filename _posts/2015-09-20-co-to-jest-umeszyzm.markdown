@@ -5,9 +5,10 @@ date: 2015-09-20 17:45:58+00:00
 excerpt: 'O pewnym wzorcu w ludzkim zachowaniu.'  
 layout: single  
 
-
+translated: false
 title: Co to jest umeszyzm?  
 lang: pl
+
 categories: ['Humans']
 ---  
 
